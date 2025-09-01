@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Yan Lam 👋  
+🎓 B.Sc. Artificial Intelligence Graduate – Vrije Universiteit Amsterdam  
+💡 Interested in AI, Data Science and Generative AI  
+📊 Skills: Python, SQL, Machine Learning, Data Wrangling, NLP, Excel
+🌍 Based in Hong Kong | Open to AI/Data roles  
 
-<!--
-**yanlam1214/Yanlam1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack  
+- **Languages**: Python, SQL, R  
+- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
+- **Tools**: Git, Jupyter Notebook
 
-Here are some ideas to get you started:
+## 📫 Contact  
+- Email: yan.lam1214@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/yan-lam-b06071258/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
